@@ -1,0 +1,21 @@
+:root { --color-error : #c82333 }
+
+.Container_Failure {
+    justify-content : center;
+    flex-direction  : column;
+    align-items     : center;
+    display         : flex;
+    padding         : 24px;
+    margin          : 24px;
+}
+
+.Icon {
+    font-size : 13em;
+    color     : var(--color-error);
+}
+
+.Message {
+    font-style : italic;
+    padding    : 12px;
+    color      : var(--color-error);
+}

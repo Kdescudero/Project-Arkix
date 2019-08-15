@@ -1,0 +1,8 @@
+.Root {
+    margin-top : 24px;
+    width      : 100%;
+}
+
+.TableWrapper { overflow : hidden; }
+
+.Table { min-width : 500px }
